@@ -1,0 +1,4 @@
+build-*
+3DViewer.pro.user
+test.dSYM
+.DS_Store
