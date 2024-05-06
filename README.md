@@ -4,6 +4,8 @@
 
 В данном проекте реализованы следующие паттерны проектирования: MVC, Strategy, Command, Facade.
 
-![3DViewer](/image/1.jpeg)
+![3DViewer](/image/Deer.png)
 
-![3DViewer](/image/2.jpeg)
+![3DViewer](/image/Dragon.png)
+
+![3DViewer](/image/Tree.png)
